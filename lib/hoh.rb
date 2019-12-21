@@ -30,7 +30,7 @@
 #   sub_category: nil
 # }
 
-def animal_kingdom = {
+var animal_kingdom = {
    label: "Kingdom",
      sub_category: {
          label: "Phylum",
