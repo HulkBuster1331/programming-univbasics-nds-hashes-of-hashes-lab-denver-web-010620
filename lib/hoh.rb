@@ -30,7 +30,7 @@
 #   sub_category: nil
 # }
 
-kingdom = {
+animal_kingdom = {
    label: "Kingdom",
      sub_category: {
          label: "Phylum",
