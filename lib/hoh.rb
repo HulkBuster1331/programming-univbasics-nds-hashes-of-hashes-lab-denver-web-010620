@@ -54,12 +54,4 @@ def animal_kingdom
             }
            }
           }
-
-          
-         
-
-  
-  
-  
-  
- end
+      end
