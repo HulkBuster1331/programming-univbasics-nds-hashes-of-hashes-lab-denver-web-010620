@@ -29,8 +29,8 @@
 #   label: "Species",
 #   sub_category: nil
 # }
-animal_kingdom= {}
-animal_kingdom = {
+
+def animal_kingdom = {
    label: "Kingdom",
      sub_category: {
          label: "Phylum",
