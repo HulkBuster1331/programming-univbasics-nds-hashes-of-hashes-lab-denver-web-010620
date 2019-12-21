@@ -51,7 +51,7 @@ kingdom = {
              }
             }
            }
-           kngdom
+           kingdom
           }
          
 
